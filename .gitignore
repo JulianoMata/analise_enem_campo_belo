@@ -1,0 +1,12 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração do VSCode
+.vscode/
+
+# Pasta com os dados brutos do INEP (NÃO ENVIAR!)
+dados_enem/
