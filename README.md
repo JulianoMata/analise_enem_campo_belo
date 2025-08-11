@@ -109,5 +109,6 @@ Siga os passos abaixo para replicar a análise.
 ## 👨‍💻 Autor
 
 * **Juliano França da Mata**
+* ```Técnico em Informática | Tecnólogo em Gestão de TI | Graduando em Ciência de Dados e Inteligência Artificial```
 * **LinkedIn:** [julianomata](https://www.linkedin.com/in/julianomata/)
 * **GitHub:** [JulianoMata](https://github.com/JulianoMata)
