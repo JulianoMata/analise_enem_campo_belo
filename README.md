@@ -29,6 +29,7 @@ O projeto foi organizado de forma modular para garantir clareza e manutenibilida
 ```
 projeto_enem/
 │
+├── .vscode/                # Armazena configurações do editor (ex: launch.json)
 ├── dados_enem/             # (VAZIO) Local para os microdados brutos do INEP
 ├── dados_filtrados_campo_belo_mg/ # Armazena os arquivos CSV após a filtragem
 ├── imagens/                # Contém todos os gráficos gerados pela análise
@@ -42,6 +43,8 @@ projeto_enem/
 ├── tabelas/                # Contém as tabelas de perfil exportadas em CSV/Excel
 ├── venv/                   # Ambiente virtual do Python (ignorado pelo Git)
 ├── .gitignore              # Arquivo para ignorar a pasta venv e outros
+├── LICENSE                 # Licença de uso do projeto
+├── README.md               # Documentação do projeto (este arquivo)
 └── requirements.txt        # Lista de todas as dependências do projeto
 
 ```
