@@ -59,7 +59,7 @@ Siga os passos abaixo para replicar a análise.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone [https://github.com/JulianoMata/analise_enem_campo_belo.git]
     cd projeto_enem
     ```
 
