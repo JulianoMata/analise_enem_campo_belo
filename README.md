@@ -26,7 +26,7 @@ Utilizando um modelo *Random Forest*, identificamos os principais fatores que in
 ## 🛠️ Estrutura do Projeto
 
 O projeto foi organizado de forma modular para garantir clareza e manutenibilidade:
-
+```
 projeto_enem/
 │
 ├── dados_enem/             # (VAZIO) Local para os microdados brutos do INEP
@@ -44,7 +44,7 @@ projeto_enem/
 ├── .gitignore              # Arquivo para ignorar a pasta venv e outros
 └── requirements.txt        # Lista de todas as dependências do projeto
 
-
+```
 ---
 
 ## ⚙️ Como Executar o Projeto
@@ -108,6 +108,6 @@ Siga os passos abaixo para replicar a análise.
 
 ## 👨‍💻 Autor
 
-* **[Juliano França da Mata]**
-* **LinkedIn:** [https://www.linkedin.com/in/julianomata/]
-* **GitHub:** [https://github.com/JulianoMata]
+* **Juliano França da Mata**
+* **LinkedIn:** [julianomata](https://www.linkedin.com/in/julianomata/)
+* **GitHub:** [JulianoMata](https://github.com/JulianoMata)
